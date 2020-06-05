@@ -10,4 +10,5 @@ On some group photos also it had a good accuracy.
 
 Resources-I used some suggestions from stackoverflow.
 
-Full video with working is available on my youtube profile.Link https://www.youtube.com/watch?v=YyDG7vDWh8Y&t=189s
+Full video with working is available on my youtube profile.
+Link https://www.youtube.com/watch?v=YyDG7vDWh8Y&t=189s
